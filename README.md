@@ -1,4 +1,4 @@
-# Bank-Statement-Analysis-and-Dashboard-in-Excel
+# SPENDWISE ANALYZER
 In this project, I analysed bank transaction data to categorize expenses and visualize insights using Excel. Starting with raw data, I used VLOOKUP to categorize transactions based on predefined categories (e.g., entertainment, food, healthcare) from a separate categories sheet. Additionally, I applied math functions to clean and standardize amounts, extracting values for accurate analysis.
 
 Using pivot tables, I summarized key metrics like total expenses, average monthly expenses, and transaction volume by category. I then designed a dashboard with charts for monthly expenses, transaction frequency, and a credit vs. debit comparison, along with a slicer for filtering by year. This dashboard enables quick, interactive exploration of spending patterns over time.
